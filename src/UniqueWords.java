@@ -1,3 +1,13 @@
+/*Lab 3: Git
+ * Juan Alfaro
+ * UniqueWords.java
+ * Feb 25,2026
+ * This program counts how many unique words are in an ArrayList
+ *  by checking for duplicates and counting only the first occurrence
+ *   of each word.It creates a sample list of words, calls the countUnique method, 
+ *   and prints the total number of unique words.
+ * 
+ */
 import java.util.ArrayList;
 
 public class UniqueWords
